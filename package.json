@@ -1,0 +1,9 @@
+{
+  "name": "wanda",
+  "version": "0.0.1",
+  "dependencies": {
+    "bda-util": "^0.1.1",
+    "crawler": "^1.0.5",
+    "moment": "2.10.3"
+  }
+}
