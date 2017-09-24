@@ -110,7 +110,7 @@ class Wanda {
 
     queue(cinema) {
 	this.crawler.queue({
-	    uri: 'http://www.wandafilm.com/trade/time.do',
+	    uri: 'http://www.wandacinemas.com/trade/time.do',
 	    qs: {
 		m: 'init',
 		city_code: cinema.cityCode,
